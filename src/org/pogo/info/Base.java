@@ -2,7 +2,7 @@ package org.pogo.info;
 
 public class Base {
 
-	public static String toolPath = "D:\\p4\\junzhou-PSHAENGDESK002-tools\\pogowork";
+	public static String toolPath = "C:\\Users\\JunZhou\\Documents\\GitHub\\pogoTools";
 	public static String mainPath = "D:\\p4\\junzhou-PSHAENGDESK002-main\\";
 	public static String wwPath = "D:\\p4\\junzhou-PSHAENGDESK002-pogoww\\";
 	public static String chPath = "D:\\p4\\junzhou-PSHAENGDESK002-hauntedhog\\";

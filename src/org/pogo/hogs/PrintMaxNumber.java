@@ -1,4 +1,4 @@
-package HOGtools;
+package org.pogo.hogs;
 
 import java.io.File;
 import java.util.ArrayList;

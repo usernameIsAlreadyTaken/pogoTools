@@ -1,4 +1,4 @@
-package HOGtools;
+package org.pogo.hogs;
 
 import org.pogo.entity.BCABadge;
 
